@@ -31,7 +31,7 @@ import android.content.SharedPreferences;
 import android.net.Uri;
 import android.service.notification.StatusBarNotification;
 import androidx.core.app.NotificationCompat;
-import androidx.core.util.ArraySet;
+import androidx.collection.ArraySet;
 import androidx.core.util.Pair;
 import android.util.Log;
 import android.util.SparseArray;
